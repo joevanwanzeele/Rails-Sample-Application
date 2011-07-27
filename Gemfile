@@ -7,6 +7,7 @@ gem 'gravatar_image_tag', '1.0.0.pre2'
 group :development do
   gem 'rspec-rails', '2.0.1'
   gem 'win32console'  
+  gem 'faker', '0.3.1'
 end
 
 group :test do
