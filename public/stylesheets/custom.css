@@ -227,3 +227,14 @@ form.new_micropost textarea {
 	height: 4em;
 	margin-bottom: 0;
 }
+
+div.wordcount {	
+	float:right;
+	margin-right:40px;
+	font-size:smaller;		
+}
+
+div.too_many_characters {
+	color: red;
+	font-weight: bold;
+}
